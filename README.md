@@ -52,6 +52,8 @@ Se você tiver interesse em ajudar, por gentileza, leia o [guia de contribuiçõ
 
 Se tiver qualquer dúvida, basta abrir uma issue.
 
+Você pode verificar o status geral do projeto na [seguinte issue](https://github.com/okrdu/sicp-ptbr/issues/31) e no presente [board](https://github.com/okrdu/sicp-ptbr/projects/1).
+
 ---
 
 ## :page_facing_up: Licenciamento
