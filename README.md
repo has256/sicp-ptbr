@@ -48,7 +48,7 @@
 
 ## :hearts: Como contribuir?!
 
-Se você tiver interesse em ajudar, por gentileza, leia o [guia de contribuições](https://github.com/okrdu/sicp-ptbr/blob/master/CONTRIBUTING.md).
+Se você tiver interesse em ajudar, por gentileza, leia o [guia de contribuições](https://github.com/okrdu/sicp-ptbr/blob/master/CONTRIBUINDO.md).
 
 Se tiver qualquer dúvida, basta abrir uma issue.
 
