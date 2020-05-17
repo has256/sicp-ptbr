@@ -6,7 +6,7 @@
 >
 </p>
 
-> Tradução do livro Structured and Interpretation of Computer Problems (SICP) - 2ª edição.
+> Tradução do livro Structure and Interpretation of Computer Problems (SICP) - 2ª edição.
 
 ---
 
